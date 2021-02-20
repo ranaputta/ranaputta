@@ -1,6 +1,6 @@
 ### Hello there, I'm Rana Putta!
-[![Twitter Follow](https://img.shields.io/twitter/follow/ranaputta?label=Follow)](https://twitter.com/ranaputta)
-[![Linkedin: andlukyane](https://img.shields.io/badge/-Rana%20Putta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rana-putta/)](https://www.linkedin.com/in/rana-putta/)
+[![Twitter](https://img.shields.io/twitter/follow/ranaputta?label=Follow)](https://twitter.com/ranaputta)
+[![Linkedin: RanaPutta](https://img.shields.io/badge/-Rana%20Putta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rana-putta/)](https://www.linkedin.com/in/rana-putta/)
 
 
 I'm an international student from India and recently moved to SF. I hold a Bachelor's degree in Physics and a gradute degree in Business
