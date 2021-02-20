@@ -9,6 +9,5 @@ a bauxite firm and have quickly realized the importance of data analysis in maki
 more about data analytics and business. I have successfully gradutead in Decemeber 2020 and moved to the Bay Area in January 2021 to find 
 a Data Analyst role in the tech landscape. 
 
-Fun Fact: I have learnt Japanese for 2 years. 
 
 I am working on a [portfolio](https://rana.putta/) listing some of my experiences, hobbies, pet-projects, and other things.
