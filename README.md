@@ -8,4 +8,4 @@ Intelligence and Analytics (BIA). I have decided to jump ship from Physics to Da
 a bauxite mining firm in India, I quickly realized the importance of data analysis in decision making and how crutial data is in the limited feedback loop that exsisted in the mining business. It was then when I decided to learn more about data analytics in business. I went back to college to learn more on this subject matter and I have successfully graduated with BIA master's degree in December 2020. I am actively looking for Data Analyst Intern/Part-time roles in the Bay Area.
 
 
-I am working on a [portfolio](https://rana.putta/) listing some of my experiences, hobbies, pet-projects, and other things.
+I am working on a [portfolio](https://rana.putta/) listing some of my experiences, hobbies, pet-projects, and interests.
